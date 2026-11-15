@@ -1,0 +1,4 @@
+policy,mean_zone_minutes_in_backlog,mean_max_queue,mean_staff_moves
+fixed,284.3,123.3,0.0
+reactive,142.5,78.0,16.5
+probability,43.0,55.5,13.0
