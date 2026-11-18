@@ -4,6 +4,8 @@ Working prototype for my final-year project at Loughborough University
 (supervisor: Dr Radmehr Monfared). **This is work in progress.** The
 README says plainly what runs today and what is still planned.
 
+**Two-page methodology note (PDF):** [docs/Methodology_Note.pdf](docs/Methodology_Note.pdf)
+
 ## Problem
 
 In a parcel or cross-docking operation, volume does not arrive on schedule. A
