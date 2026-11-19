@@ -6,6 +6,8 @@ README says plainly what runs today and what is still planned.
 
 **Two-page methodology note (PDF):** [docs/Methodology_Note.pdf](docs/Methodology_Note.pdf)
 
+**Appendix A, a fluid model of worker transfers and parcel queues (PDF):** [docs/Appendix_A_Fluid_Model.pdf](docs/Appendix_A_Fluid_Model.pdf)
+
 ## Problem
 
 In a parcel or cross-docking operation, volume does not arrive on schedule. A
